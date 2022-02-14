@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-14T14:12:59.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="p78NIvbjv7mV5I3hXcXF" version="16.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-14T14:13:11.266Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="wDsvpUyjvhBrR2TM4c4a" version="16.5.3" type="github" pages="4">
   <diagram id="-Gx7N6ykxCa6QEQfb6ec" name="运行Java代码的流程">
     <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -251,7 +251,7 @@
         <mxCell id="n-x5c0czaprhqIf4Y616-0" value="堆&lt;br&gt;存储：&lt;br&gt;所有创建的对象，数组，实例化变量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="VLM3ZJOoLS3KzdmRsszc-1">
           <mxGeometry x="920" y="335" width="260" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="n-x5c0czaprhqIf4Y616-1" value="元空间&lt;br&gt;存储：&lt;br&gt;虚拟机加载的字节码数据、静态变量、常量、&lt;br&gt;运行时常量池、类信息、方法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="VLM3ZJOoLS3KzdmRsszc-1">
+        <mxCell id="n-x5c0czaprhqIf4Y616-1" value="元空间&lt;br&gt;存储：&lt;br&gt;虚拟机加载的字节码数据、静态变量、常量、&lt;br&gt;运行时常量池、类信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="VLM3ZJOoLS3KzdmRsszc-1">
           <mxGeometry x="910" y="660" width="290" height="170" as="geometry" />
         </mxCell>
       </root>
