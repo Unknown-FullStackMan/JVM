@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-14T13:10:15.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="veTWkbheMcra5AsoP3al" version="16.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-14T13:10:30.232Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="xe1CaeAgPq8GZ4PwcB5S" version="16.5.3" type="github" pages="2">
   <diagram id="vfA-4kRPwBWYJF6NTaz_" name="JVM运行原理图">
     <mxGraphModel dx="2005" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -144,22 +144,22 @@
         <mxCell id="VLM3ZJOoLS3KzdmRsszc-0" />
         <mxCell id="VLM3ZJOoLS3KzdmRsszc-1" parent="VLM3ZJOoLS3KzdmRsszc-0" />
         <mxCell id="KxKvP_w_kPAOGpFcpC5K-0" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="VLM3ZJOoLS3KzdmRsszc-1">
-          <mxGeometry x="110" y="220" width="850" height="720" as="geometry" />
+          <mxGeometry x="390" y="230" width="850" height="720" as="geometry" />
         </mxCell>
         <mxCell id="KxKvP_w_kPAOGpFcpC5K-1" value="虚拟机栈&lt;br&gt;存储：&lt;br&gt;方法、局部变量、运行数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="VLM3ZJOoLS3KzdmRsszc-1">
-          <mxGeometry x="220" y="320" width="180" height="100" as="geometry" />
+          <mxGeometry x="500" y="330" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="KxKvP_w_kPAOGpFcpC5K-2" value="本地方法栈&lt;br&gt;存储：&lt;br&gt;Native方法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="VLM3ZJOoLS3KzdmRsszc-1">
-          <mxGeometry x="220" y="505" width="170" height="105" as="geometry" />
+          <mxGeometry x="500" y="515" width="170" height="105" as="geometry" />
         </mxCell>
         <mxCell id="KxKvP_w_kPAOGpFcpC5K-3" value="程序计数器&lt;br&gt;存储：&lt;br&gt;字节码行号指示器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="VLM3ZJOoLS3KzdmRsszc-1">
-          <mxGeometry x="220" y="710" width="170" height="100" as="geometry" />
+          <mxGeometry x="500" y="720" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="n-x5c0czaprhqIf4Y616-0" value="堆&lt;br&gt;存储：&lt;br&gt;所有创建的对象，数组" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="VLM3ZJOoLS3KzdmRsszc-1">
-          <mxGeometry x="640" y="325" width="260" height="180" as="geometry" />
+          <mxGeometry x="920" y="335" width="260" height="180" as="geometry" />
         </mxCell>
         <mxCell id="n-x5c0czaprhqIf4Y616-1" value="元空间&lt;br&gt;存储：&lt;br&gt;虚拟机加载的字节码数据、静态变量、常量、&lt;br&gt;运行时常量池" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="VLM3ZJOoLS3KzdmRsszc-1">
-          <mxGeometry x="630" y="650" width="290" height="170" as="geometry" />
+          <mxGeometry x="910" y="660" width="290" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
